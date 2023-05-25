@@ -1,0 +1,30 @@
+h1 {
+    font-family: monospace;
+}
+
+#menu {
+    text-align: center;
+}
+#descricao {
+    font-family: sans-serif;
+}
+
+#habilidade {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: wheat;
+}
+
+em {
+    color: tomato;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.java, .html, .css, .javascript {
+    font-size: 20px;
+}
