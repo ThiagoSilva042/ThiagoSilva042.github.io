@@ -2,6 +2,9 @@ h1 {
     font-family: monospace;
 }
 
+#menu {
+    text-align: center;
+}
 #descricao {
     font-family: sans-serif;
 }
@@ -12,4 +15,12 @@ h1 {
 
 body {
     background-color: wheat;
+}
+
+em {
+    color: tomato;
+}
+
+.italico {
+    font-style: italic;
 }
