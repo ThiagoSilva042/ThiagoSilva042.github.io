@@ -10,7 +10,7 @@ h1 {
 }
 
 #habilidade {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body {
@@ -23,4 +23,8 @@ em {
 
 .italico {
     font-style: italic;
+}
+
+.lista {
+    font-size: 20px;
 }
