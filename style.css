@@ -1,3 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #732E1F;
+}
+
 #titulo {
     font-family: monospace;
     text-align: center;
@@ -32,9 +42,6 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-body {
-    background-color: wheat;
-}
 
 em {
     color: tomato;
